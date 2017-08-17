@@ -1,0 +1,60 @@
+{
+  "code": "1",
+  "costTime": 66,
+  "signature": "3fe0df058345f300baec66bb29b64076",
+  "data": {
+    "cruiseBaseInfo": {
+      "productName": "测试O2O邮轮产品_勿动",
+      "linerEn": "asdasasasdasasd",
+      "totalTonnage": "1111",
+      "linerLength": "111长度",
+      "passengerNumber": "111",
+      "startServiceDate": "2017",
+      "specialFeatures": "测试O2O邮轮产品_勿动特色设施特色设施特色设施特色设施特色设施特色设施特色设施特色设施特色设施特色设施",
+      "linerDescription": "测试O2O邮轮产品_勿动邮轮简介邮轮简介邮轮简介邮轮简介邮轮简介邮轮简介邮轮简介邮轮简介邮轮简介邮轮简介邮轮简介邮轮简介邮轮简介邮轮简介邮轮简介",
+      "imageList": [
+        "http://pic.lvmama.com/uploads/pc/place2/2017-07-21/f2e8dd6e-ed09-4b75-8c80-60fbbffb3f73.jpg",
+        "http://pic.lvmama.com/uploads/pc/place2/2017-07-21/ffd7fc38-9716-42b7-8354-08148138060e.jpg",
+        "http://pic.lvmama.com/uploads/pc/place2/2017-07-21/3ccd5d7d-70ca-48cc-8be0-01b7271597e3.jpg"
+      ]
+    },
+    "cabinProductBranch": [
+      {
+        "branchName": "标准阳台房",
+        "area": "122",
+        "window": "方窗",
+        "balcony": "无阳台",
+        "deckFloor": "3",
+        "bedType": "第3人床型：下拉式",
+        "cabinDescription": "标准阳台房舱房介绍舱房介绍舱房介绍舱房介绍舱房介绍舱房介绍舱房介绍舱房介绍舱房介绍舱房介绍舱房介绍舱房介绍舱房介绍舱房介绍",
+        "minOccupantNumber": "1",
+        "maxOccupantNumber": "4",
+        "imageList": [
+          "http://pic.lvmama.com/uploads/pc/place2/2017-07-21/aa10d8df-ded5-4939-8627-0ad97a6ef853.jpg"
+        ]
+      }
+    ],
+    "restaurantProductBranch": [
+      {
+        "branchName": "兰州拉面",
+        "restaurantSpecialty": "兰州拉面餐厅特色餐厅特色",
+        "restaurantDescription": "兰州拉面餐厅介绍餐厅介绍餐厅介绍餐厅介绍",
+        "openHours": "兰州拉面开放时间*开放时间*开放时间*",
+        "restaurantDressCode": "兰州拉面着装要求着装要求着装要求"
+      }
+    ],
+    "entertainmentProductBranch": [
+      {
+        "branchName": "大澡堂",
+        "charge": "大澡堂收费情况",
+        "entertainmentDescription": "大澡堂娱乐休闲介绍*娱乐休闲介绍*娱乐休闲介绍*"
+      }
+    ],
+    "shoppingProductBranch": [
+      {
+        "branchName": "小卖部",
+        "shoppingDescription": "小卖部购物场所介绍*"
+      }
+    ]
+  }
+}

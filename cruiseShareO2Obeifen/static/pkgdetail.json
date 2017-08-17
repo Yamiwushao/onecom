@@ -1,0 +1,296 @@
+{
+  "code": "1",
+  "costTime": 116,
+  "signature": "2778c3f2ca7c4c467b017af8c4d57261",
+  "data": {
+    "pkgCruiseBaseInfo": {
+      "productId": 1161899,
+      "productName": "测试O2O邮轮组合产品_勿动",
+      "charterFlag": "N",
+      "charterDesc": "驴妈妈专线，伴享高品质优良服务，让您开心，放心，省心，安心。",
+      "productsRecommended": "测试O2O邮轮组合产品_勿动产品推荐语产品推荐语产品推荐语产品推荐语产品推荐语产品推荐语产品推荐语产品推荐语产品推荐语产品推荐语产品推荐语产品推荐语产品推荐语产品推荐语产品推荐语产品推荐语产品推荐语产品推",
+      "productFeatures": "<p>\r\n\t<span style=\"color:red;font-family:宋体, Tahoma, Arial;background-color:#FFFFFF;\"><span>测试O2O邮轮组合产品_勿动</span></span> \r\n</p>\r\n<p>\r\n\t<br />\r\n</p>",
+      "cruiseProductId": 1161902,
+      "cruiseProductName": "测试O2O邮轮产品_勿动",
+      "permMobile": "13911198660"
+    },
+    "pkgCruiseGroupDateList": [
+      {
+        "groupDate": "2017-09-22",
+        "groupDateDesc": "周六出发，周三返回"
+      },
+      {
+        "groupDate": "2018-09-22",
+        "groupDateDesc": "周日出发，周四返回"
+      }
+    ],
+    "pkgCruiseLineRoute": {
+      "days": 5,
+      "lineRouteDetails": [
+        {
+          "nDay": 1,
+          "title": "行程1",
+          "mealsDescCN": "早餐自理/午餐自理/晚餐自理",
+          "stayDescCN": "住睡地板",
+          "lineRouteDescs": [
+            {
+              "title": "行程1上午",
+              "titleType": "strokeDesc",
+              "content": "行程1上午行程1上午行程1上午行程1上午行程1上午行程1上午行程1上午行程1上午行程1上午行程1上午行程1上午行程1上午行程1上午行程1上午行程1上午行程1上午行程1上午行程1上午行程1上午行程1上午行程1上午行程1上午行程1上午行程1上午行程1上午行程1上午行程1上午行程1上午行程1上午行程1上午",
+              "comPhotos": [
+                {
+                  "photoContent": "50d0773d-5c9c-430e-8db4-6e5bed85b699.jpg",
+                  "photoUrl": "http://pic.lvmama.com/uploads/pc/place2/2017-07-20/4b2415e2-8020-4111-9be9-d28db7201814.jpg",
+                  "compressWidth": 720,
+                  "compressHeight": 360
+                },
+                {
+                  "photoContent": "50d0773d-5c9c-430e-8db4-6e5bed85b699_480_320.jpg",
+                  "photoUrl": "http://pic.lvmama.com/uploads/pc/place2/2017-07-20/dde2738f-b4f8-4b6e-9e69-65b53c380e3d.jpg",
+                  "compressWidth": 720,
+                  "compressHeight": 360
+                }
+              ]
+            },
+            {
+              "title": "行程1下午",
+              "titleType": "strokeDesc",
+              "content": "行程1下午行程1下午行程1下午行程1下午行程1下午行程1下午行程1下午行程1下午行程1下午行程1下午行程1下午行程1下午行程1下午行程1下午行程1下午行程1下午行程1下午行程1下午行程1下午行程1下午行程1下午行程1下午行程1下午行程1下午行程1下午",
+              "comPhotos": [
+                {
+                  "photoContent": "50d0773d-5c9c-430e-8db4-6e5bed85b699_480_320.jpg",
+                  "photoUrl": "http://pic.lvmama.com/uploads/pc/place2/2017-07-20/8ba9587a-683d-4711-9ab2-5a83d2971b87.jpg",
+                  "compressWidth": 720,
+                  "compressHeight": 360
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nDay": 2,
+          "title": "行程2",
+          "mealsDescCN": "早餐自理/午餐自理/晚餐自理",
+          "stayDescCN": "住邮轮",
+          "lineRouteDescs": [
+            {
+              "title": "行程2上午",
+              "titleType": "strokeDesc",
+              "content": "行程2上午行程2上午行程2上午行程2上午行程2上午行程2上午行程2上午行程2上午行程2上午行程2上午行程2上午行程2上午行程2上午行程2上午行程2上午行程2上午行程2上午行程2上午行程2上午行程2上午行程2上午行程2上午行程2上午行程2上午行程2上午行程2上午",
+              "comPhotos": [
+                {
+                  "photoContent": "50d0773d-5c9c-430e-8db4-6e5bed85b699.jpg",
+                  "photoUrl": "http://pic.lvmama.com/uploads/pc/place2/2017-07-20/93e170c9-9bf4-47fd-a88b-8e80faa693bf.jpg",
+                  "compressWidth": 720,
+                  "compressHeight": 360
+                },
+                {
+                  "photoContent": "50d0773d-5c9c-430e-8db4-6e5bed85b699_480_320.jpg",
+                  "photoUrl": "http://pic.lvmama.com/uploads/pc/place2/2017-07-20/8218774d-f3d5-44f1-b947-55cb015fed70.jpg",
+                  "compressWidth": 720,
+                  "compressHeight": 360
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nDay": 3,
+          "title": "行程3",
+          "mealsDescCN": "早餐自理/午餐自理/晚餐自理",
+          "stayDescCN": "住睡地板",
+          "lineRouteDescs": [
+            {
+              "title": "行程1上午",
+              "titleType": "strokeDesc",
+              "content": "行程1上午行程1上午行程1上午行程1上午行程1上午行程1上午行程1上午行程1上午行程1上午行程1上午行程1上午行程1上午行程1上午行程1上午行程1上午行程1上午行程1上午行程1上午行程1上午行程1上午行程1上午行程1上午行程1上午行程1上午行程1上午行程1上午行程1上午行程1上午行程1上午行程1上午",
+              "comPhotos": [
+                {
+                  "photoContent": "50d0773d-5c9c-430e-8db4-6e5bed85b699.jpg",
+                  "photoUrl": "http://pic.lvmama.com/uploads/pc/place2/2017-07-20/4b2415e2-8020-4111-9be9-d28db7201814.jpg",
+                  "compressWidth": 720,
+                  "compressHeight": 360
+                },
+                {
+                  "photoContent": "50d0773d-5c9c-430e-8db4-6e5bed85b699_480_320.jpg",
+                  "photoUrl": "http://pic.lvmama.com/uploads/pc/place2/2017-07-20/dde2738f-b4f8-4b6e-9e69-65b53c380e3d.jpg",
+                  "compressWidth": 720,
+                  "compressHeight": 360
+                }
+              ]
+            },
+            {
+              "title": "行程1下午",
+              "titleType": "strokeDesc",
+              "content": "行程1下午行程1下午行程1下午行程1下午行程1下午行程1下午行程1下午行程1下午行程1下午行程1下午行程1下午行程1下午行程1下午行程1下午行程1下午行程1下午行程1下午行程1下午行程1下午行程1下午行程1下午行程1下午行程1下午行程1下午行程1下午",
+              "comPhotos": [
+                {
+                  "photoContent": "50d0773d-5c9c-430e-8db4-6e5bed85b699_480_320.jpg",
+                  "photoUrl": "http://pic.lvmama.com/uploads/pc/place2/2017-07-20/8ba9587a-683d-4711-9ab2-5a83d2971b87.jpg",
+                  "compressWidth": 720,
+                  "compressHeight": 360
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nDay": 4,
+          "title": "行程4",
+          "mealsDescCN": "早餐自理/午餐自理/晚餐自理",
+          "stayDescCN": "住邮轮",
+          "lineRouteDescs": [
+            {
+              "title": "行程2上午",
+              "titleType": "strokeDesc",
+              "content": "行程2上午行程2上午行程2上午行程2上午行程2上午行程2上午行程2上午行程2上午行程2上午行程2上午行程2上午行程2上午行程2上午行程2上午行程2上午行程2上午行程2上午行程2上午行程2上午行程2上午行程2上午行程2上午行程2上午行程2上午行程2上午行程2上午",
+              "comPhotos": [
+                {
+                  "photoContent": "50d0773d-5c9c-430e-8db4-6e5bed85b699.jpg",
+                  "photoUrl": "http://pic.lvmama.com/uploads/pc/place2/2017-07-20/93e170c9-9bf4-47fd-a88b-8e80faa693bf.jpg",
+                  "compressWidth": 720,
+                  "compressHeight": 360
+                },
+                {
+                  "photoContent": "50d0773d-5c9c-430e-8db4-6e5bed85b699_480_320.jpg",
+                  "photoUrl": "http://pic.lvmama.com/uploads/pc/place2/2017-07-20/8218774d-f3d5-44f1-b947-55cb015fed70.jpg",
+                  "compressWidth": 720,
+                  "compressHeight": 360
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nDay": 5,
+          "title": "行程5",
+          "mealsDescCN": "早餐自理/午餐自理/晚餐自理",
+          "stayDescCN": "住睡地板",
+          "lineRouteDescs": [
+            {
+              "title": "行程1上午",
+              "titleType": "strokeDesc",
+              "content": "行程1上午行程1上午行程1上午行程1上午行程1上午行程1上午行程1上午行程1上午行程1上午行程1上午行程1上午行程1上午行程1上午行程1上午行程1上午行程1上午行程1上午行程1上午行程1上午行程1上午行程1上午行程1上午行程1上午行程1上午行程1上午行程1上午行程1上午行程1上午行程1上午行程1上午",
+              "comPhotos": [
+                {
+                  "photoContent": "50d0773d-5c9c-430e-8db4-6e5bed85b699.jpg",
+                  "photoUrl": "http://pic.lvmama.com/uploads/pc/place2/2017-07-20/4b2415e2-8020-4111-9be9-d28db7201814.jpg",
+                  "compressWidth": 720,
+                  "compressHeight": 360
+                },
+                {
+                  "photoContent": "50d0773d-5c9c-430e-8db4-6e5bed85b699_480_320.jpg",
+                  "photoUrl": "http://pic.lvmama.com/uploads/pc/place2/2017-07-20/dde2738f-b4f8-4b6e-9e69-65b53c380e3d.jpg",
+                  "compressWidth": 720,
+                  "compressHeight": 360
+                }
+              ]
+            },
+            {
+              "title": "行程1下午",
+              "titleType": "strokeDesc",
+              "content": "行程1下午行程1下午行程1下午行程1下午行程1下午行程1下午行程1下午行程1下午行程1下午行程1下午行程1下午行程1下午行程1下午行程1下午行程1下午行程1下午行程1下午行程1下午行程1下午行程1下午行程1下午行程1下午行程1下午行程1下午行程1下午",
+              "comPhotos": [
+                {
+                  "photoContent": "50d0773d-5c9c-430e-8db4-6e5bed85b699_480_320.jpg",
+                  "photoUrl": "http://pic.lvmama.com/uploads/pc/place2/2017-07-20/8ba9587a-683d-4711-9ab2-5a83d2971b87.jpg",
+                  "compressWidth": 720,
+                  "compressHeight": 360
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nDay": 6,
+          "title": "行程6",
+          "mealsDescCN": "早餐自理/午餐自理/晚餐自理",
+          "stayDescCN": "住邮轮",
+          "lineRouteDescs": [
+            {
+              "title": "行程2上午",
+              "titleType": "strokeDesc",
+              "content": "行程2上午行程2上午行程2上午行程2上午行程2上午行程2上午行程2上午行程2上午行程2上午行程2上午行程2上午行程2上午行程2上午行程2上午行程2上午行程2上午行程2上午行程2上午行程2上午行程2上午行程2上午行程2上午行程2上午行程2上午行程2上午行程2上午",
+              "comPhotos": [
+                {
+                  "photoContent": "50d0773d-5c9c-430e-8db4-6e5bed85b699.jpg",
+                  "photoUrl": "http://pic.lvmama.com/uploads/pc/place2/2017-07-20/93e170c9-9bf4-47fd-a88b-8e80faa693bf.jpg",
+                  "compressWidth": 720,
+                  "compressHeight": 360
+                },
+                {
+                  "photoContent": "50d0773d-5c9c-430e-8db4-6e5bed85b699_480_320.jpg",
+                  "photoUrl": "http://pic.lvmama.com/uploads/pc/place2/2017-07-20/8218774d-f3d5-44f1-b947-55cb015fed70.jpg",
+                  "compressWidth": 720,
+                  "compressHeight": 360
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "comPhotoList": [
+        {
+          "photoContent": "33.jpg",
+          "photoUrl": "http://pic.lvmama.com/uploads/pc/place2/2017-07-21/5151cf5d-03d0-4638-9cf8-b09dc8255d3d.jpg",
+          "compressWidth": 720,
+          "compressHeight": 360
+        },
+        {
+          "photoContent": "34.jpg",
+          "photoUrl": "http://pic.lvmama.com/uploads/pc/place2/2017-07-21/17c8c243-2e88-4934-ba88-4ffdfe83b7f6.jpg",
+          "compressWidth": 720,
+          "compressHeight": 360
+        }
+      ]
+    },
+    "pkgCruiseLineShipDetailList": [
+      {
+        "nDay": 1,
+        "destination": "港口1",
+        "leaveTime": "23:59:30"
+      },
+      {
+        "nDay": 2,
+        "destination": "海上巡游",
+        "leaveTime": "23:59:00"
+      },
+      {
+        "nDay": 3,
+        "destination": "港口2",
+        "leaveTime": "23:59:30",
+        "arriveTime": "00:00:30"
+      },
+      {
+        "nDay": 4,
+        "destination": "海上巡游",
+        "leaveTime": "23:59:30",
+        "arriveTime": "00:00:00"
+      },
+      {
+        "nDay": 5,
+        "destination": "港口3",
+        "arriveTime": "00:01:00"
+      }
+    ],
+    "pkgCruiseReserveClause": {
+      "feeIncludes": "测试O2O邮轮组合产品_勿动费用包含费用包含费用包含费用包含费用包含费用包含费用包含费用包含费用包含费用包含费用包含费用包含费用包含费用包含费用包含费用包含费用包含费用包含费用包含费用包含费用包含费用包含费用包含",
+      "costFree": "测试O2O邮轮组合产品_勿动费用不含费用不含费用不含费用不含费用不含费用不含费用不含费用不含费用不含费用不含费用不含费用不含费用不含费用不含费用不含费用不含费用不含费用不含费用不含费用不含费用不含费用不含费用不含费用不含",
+      "attention": "测试O2O邮轮组合产品_勿动预订须知预订须知预订须知预订须知预订须知预订须知预订须知预订须知预订须知预订须知预订须知预订须知预订须知预订须知预订须知预订须知预订须知预订须知预订须知预订须知预订须知预订须知预订须知预订须知预订须知预订须知预订须知预订须知预订须知预订须知预订须知预订须知预订须知预订须知",
+      "cancelStrategy": "测试O2O邮轮组合产品_勿动退款说明退款说明退款说明退款说明退款说明退款说明退款说明退款说明退款说明退款说明退款说明退款说明退款说明退款说明退款说明退款说明退款说明退款说明退款说明退款说明退款说明退款说明退款说明退款说明退款说明退款说明退款说明退款说明",
+      "important": "测试O2O邮轮组合产品_勿动行前须知行前须知行前须知行前须知行前须知行前须知行前须知行前须知行前须知行前须知行前须知行前须知行前须知行前须知行前须知行前须知行前须知行前须知行前须知行前须知行前须知行前须知行前须知行前须知行前须知行前须知行前须知行前须知行前须知行前须知行前须知行前须知行前须知行前须知行前须知",
+      "tips": "测试O2O邮轮组合产品_勿动温馨提示温馨提示温馨提示温馨提示温馨提示温馨提示温馨提示温馨提示温馨提示温馨提示温馨提示温馨提示温馨提示温馨提示温馨提示温馨提示温馨提示温馨提示温馨提示温馨提示温馨提示温馨提示温馨提示温馨提示温馨提示温馨提示温馨提示温馨提示温馨提示温馨提示温馨提示温馨提示温馨提示温馨提示温馨提示温馨提示温馨提示"
+    },
+    "pkgCruiseImageList": [
+      "http://pic.lvmama.com/uploads/pc/place2/2017-07-21/e223cf7a-7198-4e28-8d70-40d42b216c3e.jpg",
+      "http://pic.lvmama.com/uploads/pc/place2/2017-07-21/a146ad90-a22d-46bf-b2ad-9e18979b750e.jpg",
+      "http://pic.lvmama.com/uploads/pc/place2/2017-07-21/caae2131-f2bc-4942-8b05-f8c5d27c24b0.jpg",
+      "http://pic.lvmama.com/uploads/pc/place2/2017-07-21/f1d64431-7624-4a8b-b48f-43eb6b018023.jpg"
+    ],
+    "visaType": "",
+    "lowestSalePriceFen": 250000,
+    "lowestSalePriceYuan": "2500.0",
+    "commissionAmountFen": 25200,
+    "commissionAmountYuan": "252.0"
+  }
+}
